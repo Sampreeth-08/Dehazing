@@ -39,14 +39,14 @@ This project implements a method for removing haze from single input images. It 
 Example results show the method effectively removes haze even in dense scenes. Quantitative metrics in darkChannel_eval.py evaluate the dark channel prior on test images.
 
 <div align="center">
-<img src="images/Result1.jpg" width="70%" />
+<img src="images/Result1.png" width="70%" />
 </div>
 
 <div align="center">
-<img src="images/Result2.jpg" width="70%" />
+<img src="images/Result2.png" width="70%" />
 </div>
 
-<table>
+<table align="center">
 <tbody>
 <tr>
 <td>Metric</td>
