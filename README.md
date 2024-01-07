@@ -34,7 +34,7 @@ This project implements a method for removing haze from single input images. It 
 
 -**haze_test.py:** Runs the full dehazing pipeline on sample images and outputs results.
 
-## Results and Evaluation
+## Results
 
 Example results show the method effectively removes haze even in dense scenes. Quantitative metrics in darkChannel_eval.py evaluate the dark channel prior on test images.
 
@@ -45,6 +45,8 @@ Example results show the method effectively removes haze even in dense scenes. Q
 <div align="center">
 <img src="images/Result2.png" width="70%" />
 </div>
+
+## Evaluation
 
 <table align="center">
 <tbody>
